@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeRateService", "src\ExchangeRateService\ExchangeRateService.csproj", "{8BBAADEE-C7E5-425B-8C67-8AB5415658EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeRateService.Tests", "src\ExchangeRateService.Tests\ExchangeRateService.Tests.csproj", "{B115A292-BA07-41AE-BE5D-2AB130AF4D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BBAADEE-C7E5-425B-8C67-8AB5415658EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBAADEE-C7E5-425B-8C67-8AB5415658EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBAADEE-C7E5-425B-8C67-8AB5415658EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBAADEE-C7E5-425B-8C67-8AB5415658EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B115A292-BA07-41AE-BE5D-2AB130AF4D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B115A292-BA07-41AE-BE5D-2AB130AF4D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B115A292-BA07-41AE-BE5D-2AB130AF4D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B115A292-BA07-41AE-BE5D-2AB130AF4D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC713A6-C6B1-476C-950F-43344148E822}
+	EndGlobalSection
+EndGlobal
